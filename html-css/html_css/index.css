@@ -1,0 +1,91 @@
+@import url(//spoqa.github.io/spoqa-han-sans/css/SpoqaHanSansNeo.css);
+/* font-family: 'Spoqa Han Sans Neo', 'sans-serif'; */
+
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Spoqa Han Sans Neo', 'sans-serif';
+}
+
+body{
+    position: fixed;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 30vw;
+    margin-top: 3.5vw;
+    background-color: #99f9;
+}
+
+.title{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.title b{
+    background-color: #000;
+    color: #fff;
+}
+
+.t1{
+    font-size: 3.5vw;
+    text-align: center;
+}
+
+.txt_box{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 1.5vw;
+}
+.txt_box span{
+    margin-bottom: 1vw;
+}
+.inp1{
+    margin-left: 1vw;
+}
+.inp2{
+    margin-left: 1.7vw;
+}
+
+.bt2{
+    margin-left: 1vw;
+}
+.bt{
+    padding: 10px;
+}
+button:hover{
+    cursor: pointer;
+}
+input{
+    padding: 10px;
+}
+
+.box{
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 100%;
+    background-color: #fff;
+    border-radius: 10px;
+    padding: 1.5vw;
+    margin-top: 2vw;
+}
+
+.space{
+    margin-bottom: 2vw;
+}
+
+.little_box{
+    display: flex;
+    flex-direction: column;
+}
+.little_box h3{
+    font-size: 30px;
+}
+
+.ms{
+    align-self: flex-end;
+    color: #aaa;
+    position: absolute;
+    margin-top: 1vw;
+}
