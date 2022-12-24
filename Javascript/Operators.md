@@ -1,7 +1,7 @@
 # :ballot_box_with_check: 논리 연산자(Logical Operator)
 > ### & : 비트 연산자
 > 비트의 논리 합을 하는 연산자　
-[⇒비트 연산자 참고 사이트](https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Operators/Bitwise_AND)
+[⇒ 비트 연산자 참고 사이트](https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Operators/Bitwise_AND)
 
 <br>
 
