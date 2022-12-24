@@ -12,6 +12,12 @@
 
 > ### || : 논리합 연산자
 > ||는 둘 중 하나가 참이면 true
+```javascript
+true || true === true
+true || false === true
+false || true === true
+false || false === false
+```
 
 <br>
 
