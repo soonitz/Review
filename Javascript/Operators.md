@@ -7,15 +7,21 @@
 
 > ### && : 논리곱 연산자
 > &&는 모든 조건이 참이어야 true
+```javascript
+true  && true  === true
+true  && false === false
+false && true  === false
+false && false === false
+```
 
 <br>
 
 > ### || : 논리합 연산자
 > ||는 둘 중 하나가 참이면 true
 ```javascript
-true || true === true
-true || false === true
-false || true === true
+true  || true  === true
+true  || false === true
+false || true  === true
 false || false === false
 ```
 
